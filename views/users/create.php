@@ -25,7 +25,7 @@
                                   </h3>
                                     </div><!-- /.card-header -->
                                     <div class="card-body">
-                                    
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum soluta, omnis aliquam, magni eos deleniti cumque sapiente modi blanditiis velit, a ratione explicabo sed quis eligendi neque inventore at delectus.</p>
                                 </div>
                                 <!-- /.card-body -->
                             </div>
